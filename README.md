@@ -23,13 +23,16 @@ Music provided by NoCopyrightSounds
 Free Download/Stream: http://ncs.io/Alright 
 Watch: http://ncs.lnk.to/AlrightAT/youtube 
 
-#### Gameplay:
+#### Game Background Music:
 - Song: BIMINI - No Way (with Avi Snow) [NCS Release]
 Music provided by NoCopyrightSounds
 Free Download/Stream: http://ncs.io/noway
 Watch: AT/youtube
 
 - Song: Mo Falk & OVSKY - Home [NCS Release] Music provided by NoCopyrightSounds Free Download/Stream: http://NCS.io/MOHome Watch: http://youtu.be/0DXI_ooetEo
+
+#### Gun Sound Effect
+- Blaster Shot by UNIVERSFIELD -- https://freesound.org/s/750234/ -- License: Attribution 4.0
 
 ### Images
 Images for the cinematic and for the info board close to player spawn were generated interactively using Dall-E via ChatGPT Plus.
