@@ -70,4 +70,5 @@ Watch: http://youtu.be/0DXI_ooetEo
 
 ### Images
 Images for the cinematic and for the info board close to player spawn were generated interactively using Dall-E via ChatGPT Plus.
-Chat history can be found [here](Docs/chat-history-to-generate-images-with-ai.txt)
+- Chat history can be found [here](Docs/chat-history-to-generate-images-with-ai.txt)
+- Chat history to generate cat face icon can be accessed [here](https://chatgpt.com/share/675d8ab4-9640-800c-bb1c-db1f856f732c)
