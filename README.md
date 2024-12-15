@@ -1,9 +1,9 @@
-# Softare Engineering - CA1 - Alpha of game
+# Softare Engineering - CA1 + CA2 - Beta of game
 
 ## Playing with Sleepy
 
 ### Story Background
-After losing his beloved cat, Sleepy (Sonequinha), and going through difficult times, a software engineer had a a dream where Sleepy came back to play with him. In the dream, she was hidding in many places and she would keep meowing until he could found her. 
+After losing his beloved cat, Sleepy (Sonequinha), and going through difficult times, a software engineer had a a dream where Sleepy came back to play with him. In the dream, she was hidding in many places and she would keep meowing until he could found her.
 
 ### Game Play
 In a fun and alive environment, a large number of objects (props) are placed at random locations of the map. Only in a few of these objects, Sleepy hides inside and keeps meowing to seek for your attention. Walk around the map, play attention to the sounds around you and once you think you've found Sleepy, shoot the prop. After finding Sleepy in all hidden locations, you will be rewarded.
@@ -20,14 +20,16 @@ In a fun and alive environment, a large number of objects (props) are placed at 
 
 ### To be improved
 
-- Some objects are spawned inside static buildings. Need to refine logic to ignore some of the locations.
+~~- Some objects are spawned inside static buildings. Need to refine logic to ignore some of the locations. ✅~~
 - Mouse sensitivity could be improved
+- Change from gun to pointing a finger and asking ("Sleepy, is that you?")
+- Implement Observer (Pub/Sub) design pattern whenever possible to reduce coupling
 
 ### Ideas for the future
 
+~~- Add timer ✅~~
+~~- Add a UI with number of cats, remainig, timer, best score~~
 - Limit number of bullets in weapon
-- Add timer
-- Add a UI with number of cats, remainig, timer, best score
 
 ---
 
